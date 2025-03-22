@@ -1,0 +1,2 @@
+# binancebot
+bot traiding automat
